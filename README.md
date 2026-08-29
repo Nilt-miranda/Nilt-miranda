@@ -21,7 +21,7 @@ Next.js e NestJS na frente, Postgres e Prisma atrás — e também projetos na f
 **software e mundo físico**, com sensores, MQTT e automação.
 
 - 🎓 Cursando **Engenharia de Computação**
-- 🔭 Desenvolvendo sistemas de pedidos, e-commerce e sites pela **DNG — Digital Nexus Group**
+- 🔭 Desenvolvendo sistemas de pedidos, e-commerce e apps mobile pela **DNG — Digital Nexus Group**
 - 🌱 Estudando **IA**, **DevOps com Docker/Terraform** e **sistemas embarcados (ESP32/IoT)**
 - 🧩 Movido por desafios técnicos e aprendizado contínuo
 
@@ -33,6 +33,8 @@ Next.js e NestJS na frente, Postgres e Prisma atrás — e também projetos na f
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
@@ -56,7 +58,7 @@ Next.js e NestJS na frente, Postgres e Prisma atrás — e também projetos na f
 ## 💼 Projetos profissionais
 
 Sistemas em produção ou em desenvolvimento pela **DNG — Digital Nexus Group**.
-_Os repositórios são privados, então descrevo aqui o que foi construído._
+_Descrevo abaixo o que foi construído em cada um._
 
 ### 🍽️ Sistema de Pedidos para Restaurante
 PWA onde o cliente escaneia o **QR Code da mesa**, navega no cardápio e pede pelo celular —
@@ -90,15 +92,24 @@ Loja completa no modelo **dropshipping**, do catálogo ao pós-venda.
 
 `Next.js 16` `TypeScript` `Tailwind CSS v4` `Prisma` `Mercado Pago` `JWT`
 
-### 🌐 DNG — Site institucional
-Site da agência, estático e **sem build ou dependências** — carrega instantâneo.
+### 🖋️ InkConnect — App para o mercado de tatuagem
+Ferramenta de operação do tatuador — agenda, orçamento, sinal e portfólio — com uma camada
+de descoberta por cima. O ciclo roda fim a fim: **pedir orçamento → artista responde →
+cliente aceita → escolhe horário → paga o sinal → sessão concluída → os dois avaliam**.
 
-- Página inicial com hero, contadores animados, serviços, depoimentos e FAQ
-- Página de orçamento com planos e **toggle mensal/anual**
-- Páginas de Política de Privacidade e Termos de Uso (LGPD)
-- Interações em JavaScript puro: menu, scroll reveal e contadores
+- **Monorepo** com app **Expo/React Native**, site público em **Next.js** e um pacote de
+  domínio puro, sem framework nem banco — **266 testes** cobrindo as regras que não podem
+  estar erradas
+- **Orçamento estruturado**: briefing em 4 passos, referências, estimativa e resposta do artista
+- **Agenda sem slots materializados** — a disponibilidade é calculada, não armazenada
+- **Overbooking barrado no banco**, com `EXCLUDE USING gist` no Postgres, e não por lock de aplicação
+- **Sinal e política de reembolso**: prazo de expiração, remarcação dentro da janela de
+  reembolso integral e liquidação com dinheiro em **centavos inteiros**
+- **Descoberta com ranking próprio** (qualidade, estilo, proximidade, disponibilidade e frescor)
+  e busca textual sem acento por nome, estilo, cidade e estúdio
+- **Reputação com nota bayesiana** e avaliação cega mútua, liberada só após sessão concluída
 
-`HTML5` `CSS3` `JavaScript`
+`React Native` `Expo` `Next.js` `TypeScript` `Drizzle ORM` `PostgreSQL` `Zod` `Vitest`
 
 ---
 
@@ -113,7 +124,7 @@ e o dashboard exibe tudo em tempo real com **Chart.js**.
 
 ### 🐾 [Dra. Isabelle Sudario — Neurologia Pet](https://www.neurologiapet.com)
 Site institucional de uma neurologista veterinária, publicado em domínio próprio.
-Página única, integração com WhatsApp e agendamento. → [código](https://github.com/Nilt-miranda/isavet)
+Página única, com integração de WhatsApp e agendamento.
 
 `HTML5` `CSS3` `JavaScript` `GitHub Pages`
 
@@ -124,7 +135,7 @@ Sistema de agendamento médico em dois repositórios:
 
 `TypeScript` `Java` `Spring Boot` `JWT`
 
-### 💰 FinTrack — Controle financeiro pessoal _(repositório privado)_
+### 💰 FinTrack — Controle financeiro pessoal
 App de finanças para **múltiplas contas**, sem depender de Open Finance.
 
 - Saldo em modelo de **ledger**, que se ajusta a cada transação lançada
