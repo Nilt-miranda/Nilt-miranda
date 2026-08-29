@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nilt-miranda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/nilton-pgvmiranda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:niltonpgvm@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.instagram.com/nilton_88"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
@@ -24,6 +24,39 @@ Next.js e NestJS na frente, Postgres e Prisma atrás — e também projetos na f
 - 🔭 Desenvolvendo sistemas de pedidos, e-commerce e apps mobile pela **DNG — Digital Nexus Group**
 - 🌱 Estudando **IA**, **DevOps com Docker/Terraform** e **sistemas embarcados (ESP32/IoT)**
 - 🧩 Movido por desafios técnicos e aprendizado contínuo
+
+---
+
+## 🏢 Experiência
+
+### 💻 SaltCode — Desenvolvedor Júnior
+`fev/2026 — atual` · Tempo integral
+
+Desenvolvimento e implementação de funcionalidades, criação de APIs para a comunicação entre
+front-end e banco de dados, correção de bugs e operações em banco. Trabalho diário com Git,
+Docker e boas práticas de código.
+
+`Node.js` `Python` `API REST` `SQL` `Docker` `Git`
+
+### 🧑‍💻 SaltCode — Desenvolvedor Back-end · Estágio
+`out/2025 — fev/2026`
+
+Auxílio na criação de APIs, integração de sistemas, correção de bugs e modelagem de banco de dados.
+
+### 🏭 Anjos IT — Desenvolvedor ABAP · Estágio
+`mai/2023 — out/2023`
+
+Desenvolvimento e suporte em programas **ABAP**, construção de relatórios, ajustes em sistemas
+**SAP** e resolução de chamados técnicos para clientes internos.
+
+`ABAP` `SAP` `SQL`
+
+---
+
+## 🎓 Formação
+
+**Bacharelado em Engenharia da Computação** — FIAP · `2023 — 2027`
+Foco em desenvolvimento de software, infraestrutura e sistemas.
 
 ---
 
@@ -167,7 +200,7 @@ Site de portfólio em **React + Vite**, com tema customizável.
 ## 📫 Vamos conversar?
 
 - ✉️ **Email:** [niltonpgvm@gmail.com](mailto:niltonpgvm@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/nilt-miranda](https://linkedin.com/in/nilt-miranda)
+- 💼 **LinkedIn:** [linkedin.com/in/nilton-pgvmiranda](https://www.linkedin.com/in/nilton-pgvmiranda)
 - 🤳 **Instagram:** [@nilton_88](https://www.instagram.com/nilton_88)
 
 ---
