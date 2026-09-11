@@ -90,9 +90,6 @@ Foco em desenvolvimento de software, infraestrutura e sistemas.
 
 ## 💼 Projetos profissionais
 
-Sistemas em produção ou em desenvolvimento pela **DNG — Digital Nexus Group**.
-_Descrevo abaixo o que foi construído em cada um._
-
 ### 🍽️ Sistema de Pedidos para Restaurante
 PWA onde o cliente escaneia o **QR Code da mesa**, navega no cardápio e pede pelo celular —
 sem app, sem garçom no meio do caminho.
@@ -124,25 +121,6 @@ Loja completa no modelo **dropshipping**, do catálogo ao pós-venda.
 - **Rastreamento público** por código + e-mail, com link direto para os Correios
 
 `Next.js 16` `TypeScript` `Tailwind CSS v4` `Prisma` `Mercado Pago` `JWT`
-
-### 🖋️ InkConnect — App para o mercado de tatuagem
-Ferramenta de operação do tatuador — agenda, orçamento, sinal e portfólio — com uma camada
-de descoberta por cima. O ciclo roda fim a fim: **pedir orçamento → artista responde →
-cliente aceita → escolhe horário → paga o sinal → sessão concluída → os dois avaliam**.
-
-- **Monorepo** com app **Expo/React Native**, site público em **Next.js** e um pacote de
-  domínio puro, sem framework nem banco — **266 testes** cobrindo as regras que não podem
-  estar erradas
-- **Orçamento estruturado**: briefing em 4 passos, referências, estimativa e resposta do artista
-- **Agenda sem slots materializados** — a disponibilidade é calculada, não armazenada
-- **Overbooking barrado no banco**, com `EXCLUDE USING gist` no Postgres, e não por lock de aplicação
-- **Sinal e política de reembolso**: prazo de expiração, remarcação dentro da janela de
-  reembolso integral e liquidação com dinheiro em **centavos inteiros**
-- **Descoberta com ranking próprio** (qualidade, estilo, proximidade, disponibilidade e frescor)
-  e busca textual sem acento por nome, estilo, cidade e estúdio
-- **Reputação com nota bayesiana** e avaliação cega mútua, liberada só após sessão concluída
-
-`React Native` `Expo` `Next.js` `TypeScript` `Drizzle ORM` `PostgreSQL` `Zod` `Vitest`
 
 ---
 
