@@ -21,7 +21,7 @@ Next.js e NestJS na frente, Postgres e Prisma atrás — e também projetos na f
 **software e mundo físico**, com sensores, MQTT e automação.
 
 - 🎓 Cursando **Engenharia de Computação**
-- 🔭 Desenvolvendo sistemas de pedidos, e-commerce e apps mobile pela **DNG — Digital Nexus Group**
+- 🔭 Desenvolvendo sistemas de pedidos, e-commerce e apps mobile 
 - 🌱 Estudando **IA**, **DevOps com Docker/Terraform** e **sistemas embarcados (ESP32/IoT)**
 - 🧩 Movido por desafios técnicos e aprendizado contínuo
 
