@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de <b>Engenharia de Computação</b> e desenvolvedor full-stack —
-  construindo produtos que vão do <b>banco de dados</b> ao <b>hardware</b>.
+  construindo produtos que vão do <b>hardware</b> ao <b>software</b>.
 </p>
 
 <p align="center">
