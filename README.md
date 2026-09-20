@@ -30,18 +30,13 @@ Next.js e NestJS na frente, Postgres e Prisma atrás — e também projetos na f
 ## 🏢 Experiência
 
 ### 💻 SaltCode — Desenvolvedor Júnior
-`fev/2026 — atual` · Tempo integral
+`out/2025 — atual` · Tempo integral
 
 Desenvolvimento e implementação de funcionalidades, criação de APIs para a comunicação entre
 front-end e banco de dados, correção de bugs e operações em banco. Trabalho diário com Git,
 Docker e boas práticas de código.
 
 `Node.js` `Python` `API REST` `SQL` `Docker` `Git`
-
-### 🧑‍💻 SaltCode — Desenvolvedor Back-end · Estágio
-`out/2025 — fev/2026`
-
-Auxílio na criação de APIs, integração de sistemas, correção de bugs e modelagem de banco de dados.
 
 ### 🏭 Anjos IT — Desenvolvedor ABAP · Estágio
 `mai/2023 — out/2023`
@@ -139,13 +134,6 @@ Página única, com integração de WhatsApp e agendamento.
 
 `HTML5` `CSS3` `JavaScript` `GitHub Pages`
 
-### 🏥 Marcação de Consultas Médicas
-Sistema de agendamento médico em dois repositórios:
-- 🖥️ [Front-end](https://github.com/Nilt-miranda/marcacaoDeConsultasMedicas-EC) — **TypeScript**
-- ⚙️ [API REST](https://github.com/Nilt-miranda/marcacaoDeConsultasMedicas-ECA3-backend) — **Spring Boot**, JPA, Spring Security e **JWT**
-
-`TypeScript` `Java` `Spring Boot` `JWT`
-
 ### 💰 FinTrack — Controle financeiro pessoal
 App de finanças para **múltiplas contas**, sem depender de Open Finance.
 
@@ -160,9 +148,6 @@ App de finanças para **múltiplas contas**, sem depender de Open Finance.
 Site de portfólio em **React + Vite**, com tema customizável.
 
 `React` `Vite`
-
-> 🧠 Também mantenho projetos acadêmicos de Engenharia: circuitos pneumáticos, automação,
-> computação quântica e sistemas inteligentes.
 
 ---
 
