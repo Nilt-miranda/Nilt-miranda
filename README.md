@@ -67,8 +67,6 @@ Foco em desenvolvimento de software, infraestrutura e sistemas.
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
   <br>
@@ -154,8 +152,8 @@ Site de portfólio em **React + Vite**, com tema customizável.
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nilt-miranda&show_icons=true&hide_border=true&theme=default" alt="Estatísticas do GitHub de Nilton Miranda">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilt-miranda&layout=compact&hide_border=true&theme=default" alt="Linguagens mais usadas">
+  <img height="165" src="https://streak-stats.demolab.com?user=Nilt-miranda&hide_border=true&background=0D0D0D&ring=A64DFF&fire=A64DFF&currStreakLabel=A64DFF&sideNums=EAEAEA&currStreakNum=EAEAEA&sideLabels=EAEAEA&dates=8E9091" alt="Sequência de contribuições de Nilton Miranda">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilt-miranda&layout=compact&langs_count=6&hide=java,plpgsql&exclude_repo=aula-java,api-rest-java-eca,Site_base_bootstrap,Arduino_AC1&title_color=A64DFF&text_color=EAEAEA&bg_color=0D0D0D&hide_border=true" alt="Linguagens mais usadas">
 </p>
 
 ---
