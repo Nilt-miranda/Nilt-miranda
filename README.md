@@ -152,6 +152,10 @@ Site de portfólio em **React + Vite**, com tema customizável.
 ## 📊 GitHub
 
 <p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FNilt-miranda%3Fy%3D2026&query=%24.total.2026&label=Contribui%C3%A7%C3%B5es%20em%202026&color=A64DFF&labelColor=0D0D0D&style=for-the-badge&logo=github" alt="Contribuições em 2026">
+</p>
+
+<p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Nilt-miranda&hide_border=true&background=0D0D0D&ring=A64DFF&fire=A64DFF&currStreakLabel=A64DFF&sideNums=EAEAEA&currStreakNum=EAEAEA&sideLabels=EAEAEA&dates=8E9091" alt="Sequência de contribuições de Nilton Miranda">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilt-miranda&layout=compact&langs_count=6&hide=java,plpgsql&exclude_repo=aula-java,api-rest-java-eca,Site_base_bootstrap,Arduino_AC1&title_color=A64DFF&text_color=EAEAEA&bg_color=0D0D0D&hide_border=true" alt="Linguagens mais usadas">
 </p>
