@@ -156,8 +156,7 @@ Site de portfólio em **React + Vite**, com tema customizável.
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Nilt-miranda&hide_border=true&background=0D0D0D&ring=A64DFF&fire=A64DFF&currStreakLabel=A64DFF&sideNums=EAEAEA&currStreakNum=EAEAEA&sideLabels=EAEAEA&dates=8E9091" alt="Sequência de contribuições de Nilton Miranda">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilt-miranda&layout=compact&langs_count=6&hide=java,plpgsql&exclude_repo=aula-java,api-rest-java-eca,Site_base_bootstrap,Arduino_AC1&title_color=A64DFF&text_color=EAEAEA&bg_color=0D0D0D&hide_border=true" alt="Linguagens mais usadas">
+  <img height="165" src="assets/top-langs.svg" alt="Linguagens mais usadas">
 </p>
 
 ---
